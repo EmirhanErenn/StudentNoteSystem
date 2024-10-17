@@ -1,0 +1,11 @@
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\bin\Debug\ogrencinotuygulamasi.exe.config
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\bin\Debug\ogrencinotuygulamasi.exe
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\bin\Debug\ogrencinotuygulamasi.pdb
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.Form1.resources
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.Properties.Resources.resources
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.exe
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.pdb
+C:\Users\EXCALIBUR\source\repos\ogrencinotuygulamasi\ogrencinotuygulamasi\obj\Debug\ogrencinotuygulamasi.Form2.resources
